@@ -1,0 +1,1 @@
+// POST — invest % per purchase, pushed to ISA imaginary connecction to engine starling ISA

@@ -1,0 +1,1 @@
+// GET — AI weekly review + what could be improved, what could be avoided, what could go into savings intead of spending
