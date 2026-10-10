@@ -1,0 +1,1 @@
+// POST — appreciation message / AI notification triggers
