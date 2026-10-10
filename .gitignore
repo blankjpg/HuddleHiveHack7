@@ -1,0 +1,12 @@
+# Environment variables and API keys
+.env
+config.js
+
+# IDE
+.idea/
+cmake-build-debug/
+
+# Build files
+*.o
+*.exe
+*.out
